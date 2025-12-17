@@ -7,6 +7,7 @@ public class Demo1 {
                 int t= i*l;
             System.out.println( i+" * "+l+" = "+t);
 
+
         }
 
     }
