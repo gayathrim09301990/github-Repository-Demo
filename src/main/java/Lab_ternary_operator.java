@@ -1,5 +1,3 @@
-package org.example;
-
 public class Lab_ternary_operator {
 
     public static void main(String[] args){

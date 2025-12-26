@@ -1,5 +1,3 @@
-package org.example;
-
 public class Lab_CLI_excercise {
     public static void main(String[] args){
         String age_input_string= args[3];
